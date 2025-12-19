@@ -4,7 +4,7 @@ import requests
 API_URL = "https://fastapiproject-aehr.onrender.com/predict" 
 
 st.title("Insurance Premium Category Predictor")
-st.markdown("Due to freemium you have to wait for 50 seconds becasue api hosted on render required to wake up on free tier sleep after sometime so please analyse the project.")
+st.markdown("Due to freemium you have to wait for 50 seconds because api hosted on render required to wake up on free tier sleep after sometime so please analyse the project.")
 st.markdown("Enter your details below:")
 
 # Input fields
